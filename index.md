@@ -1,2 +1,6 @@
-# This is a Heading
-This is not
+# Header size 1
+## Header size 1
+### Header size 1
+#### Header size 1
+##### Header size 1
+###### Header size 1
